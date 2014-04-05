@@ -11,7 +11,7 @@ Create quick entries in Day One using Launch Center Pro
 * [Sleep Log](http://launchcenterpro.com/m6yyt9)
 * [Benjamin Franklin's Virtues](http://launchcenterpro.com/s94hjl)
 * [Book Review](http://launchcenterpro.com/d3ghhl)
-* [Movie Review]((http://launchcenterpro.com/y23cq3)
+* [Movie Review](http://launchcenterpro.com/y23cq3)
 
 
 ## Tutorial to set these actions up
