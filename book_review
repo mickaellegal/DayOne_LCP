@@ -1,0 +1,11 @@
+dayone://post?entry=Book Review
+
+|Book Review||
+|:---|:---|
+|Book Title|[prompt: Book Title]|
+|Author|[prompt: Author]|
+|Link|[prompt: Link]|
+|Genre|[list:Genre|Fiction|Short Story Collection|Historical Fiction|Mystery|Non-Fiction|Photography|Science Fiction|Other]|
+|Rating|[list:Rating|★☆☆☆☆|★★☆☆☆|★★★☆☆|★★★★☆|★★★★★]|
+|Notes|[prompt:Notes]|
+#Book #Review

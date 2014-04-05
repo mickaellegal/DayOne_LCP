@@ -1,0 +1,12 @@
+dayone://post?entry=My Workout of the Day
+
+|Workout||Sets|Reps|
+|:---|:---|:---|:---|
+|Back|[list: Did you train your back?|Yes|No]|[prompt-num:How many sets?]|[prompt-num:How many reps?]|
+|Chest|[list: Did you train your chest?|Yes|No]|[prompt-num:How many sets?]|[prompt-num:How many reps?]|
+|Abs|[list: Did you train your abs?|Yes|No]|[prompt-num:How many sets?]|[prompt-num:How many reps?]|
+|Shoulders|[list: Did you train your shoulders?|Yes|No]|[prompt-num:How many sets?]|[prompt-num:How many reps?]|
+|Legs|[list: Did you train your legs?|Yes|No]|[prompt-num:How many sets?]|[prompt-num:How many reps?]|
+|Cardio|[list: Did you do some cardio?|Yes|No]|[prompt-num:How long (mins)?]mins||
+|Notes|[prompt:Notes]|||
+#Exercise

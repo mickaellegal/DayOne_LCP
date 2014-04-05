@@ -1,0 +1,15 @@
+dayone://post?entry=My Meals and Drinks Log
+
+|Meals and Drinks||
+|:---|:---|
+|My Breakfast|[prompt: My Breakfast]|
+|My Lunch|[prompt: My Lunch]|
+|My Dinner|[prompt: My Dinner]|
+|My Snacks|[prompt: Snacks I ate today]|
+|Cups of coffee|[list: How many cups of coffee?|None|1|2|3|4|5|More than 5]|
+|Cups of Tea|[list: How many cups of tea?|None|1|2|3|4|5|More than 5]|
+|Other drinks|[prompt: Anything else I drunk?]|
+|Did I take some vitamins today?|[list: Did I take some vitamins?|Yes|No]|
+|Notes|[prompt:Notes]|
+
+#Meals #Review
