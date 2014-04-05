@@ -1,0 +1,17 @@
+dayone://post?entry=My Daily Review # (Here is the title of your entry)
+
+|Daily Review||
+|:---|:---|
+|Summary|[prompt: Today's one word summary]|
+|Did I work?|[list: Did I work today?|Yes|No]|
+
+|Did I relax?|[list: Did I relax today?|Yes|No]|
+|Physical Exercise|[list: Did I workout today?|Yes|No]|
+|Satisfaction|[list: Am I happy with what I did today?|Yes|No]|
+|Goals|[list:Any progress toward my goals?|Yes|No]|
+|Lessons|[prompt:What did I learn?]|
+
+|Grateful|[prompt:What am I grateful for?]|
+|Mood|[list:Mood|😂|😄|😐|😞|😭|😠]|
+|Notes|[prompt:Extra Thoughts?]|
+#Daily Review #(Here is the Tag you want to attach to your entry)
